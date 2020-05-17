@@ -1,0 +1,18 @@
+body {
+  background-color: #eee;
+  height: 100vh;
+}
+
+.box {
+  height: 100vh;
+  display: flex;
+}
+
+.left {
+  width: 200px;
+  background-color: #333;
+}
+
+.right {
+  flex: 2;
+}
